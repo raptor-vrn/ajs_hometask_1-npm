@@ -1,0 +1,22 @@
+{
+  "name": "defender-game",
+  "version": "1.0.0",
+  "description": "Browser based game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raptor-vrn/ajs_hometask_1-npm.git"
+  },
+  "keywords": [
+    "game"
+  ],
+  "author": "raptor-vrn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raptor-vrn/ajs_hometask_1-npm/issues"
+  },
+  "homepage": "https://github.com/raptor-vrn/ajs_hometask_1-npm#readme"
+}
